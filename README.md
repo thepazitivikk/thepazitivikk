@@ -1,7 +1,7 @@
 ```
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
   hey, i'm thepaz ~
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
 ```
 
 i build things for the web and beyond — clean backends, sharp frontends, and the occasional tool that makes my life easier.
@@ -36,4 +36,4 @@ currently deep into **Go** and **Kotlin** · always learning · always shipping.
 
 **find me**
 
-→ [pazik.tech](https://pazik.tech) · [t.me/thepazitivikk](https://t.me/thepazitivikk)
+→ [pazik.tech](https://pazik.tech) · [t.me/portpazik](https://t.me/portpazik)
